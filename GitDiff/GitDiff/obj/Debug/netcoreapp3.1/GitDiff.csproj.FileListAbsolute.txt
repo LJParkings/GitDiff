@@ -1,0 +1,11 @@
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.exe
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.deps.json
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.runtimeconfig.json
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.runtimeconfig.dev.json
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.dll
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.pdb
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.AssemblyInfoInputs.cache
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.AssemblyInfo.cs
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.dll
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.pdb
+C:\Users\LEWIS\source\repos\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.csprojAssemblyReference.cache
